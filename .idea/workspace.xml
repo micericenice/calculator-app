@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd03a3ff-881e-4b02-97de-54e0f8a49155" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculator/CalculatorEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/CalculatorWindow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorEngineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/app/CalculatorWindow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/app/CalculatorWindow.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,61 +55,61 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.590676514955324E-5" />
-      <entry key="MS500" value="0.10978935936019839" />
-      <entry key="S2" value="0.7168029198389132" />
-      <entry key="S5" value="1.701327973851789" />
-      <entry key="S10" value="3.061133780533074" />
-      <entry key="S30" value="7.124109004640003" />
-      <entry key="S60" value="12.951782259460325" />
-      <entry key="M2" value="24.74133882996189" />
-      <entry key="M5" value="53.882094284591474" />
-      <entry key="M10" value="88.96390124196023" />
-      <entry key="M15" value="116.00542821065652" />
-      <entry key="M30" value="173.79767023313164" />
-      <entry key="H1" value="235.12267044884544" />
-      <entry key="H2" value="283.8717977360651" />
-      <entry key="H4" value="315.33009496965957" />
-      <entry key="D1" value="346.2319126299823" />
-      <entry key="W1" value="352.02028568873465" />
+      <entry key="MS100" value="1.4554513294816747" />
+      <entry key="MS500" value="2.7060162990583283" />
+      <entry key="S2" value="5.0552038120667735" />
+      <entry key="S5" value="6.097222624501788" />
+      <entry key="S10" value="6.524409065056035" />
+      <entry key="S30" value="6.835772972183451" />
+      <entry key="S60" value="6.957357330309192" />
+      <entry key="M2" value="8.50838479524501" />
+      <entry key="M5" value="26.083838031833626" />
+      <entry key="M10" value="66.35879439355539" />
+      <entry key="M15" value="105.95977566335552" />
+      <entry key="M30" value="209.9558216903643" />
+      <entry key="H1" value="358.9868943724441" />
+      <entry key="H2" value="513.6198111928376" />
+      <entry key="H4" value="632.5273844344155" />
+      <entry key="D1" value="764.8865382870076" />
+      <entry key="W1" value="791.4482029216301" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.000000037932245" />
-      <entry key="S5" value="1.00107548279033" />
-      <entry key="S10" value="1.0328054725100657" />
-      <entry key="S30" value="1.355180665498914" />
-      <entry key="S60" value="1.9864362245969214" />
-      <entry key="M2" value="3.7627085369107256" />
-      <entry key="M5" value="9.227125470742992" />
-      <entry key="M10" value="16.53077404853027" />
-      <entry key="M15" value="23.158107654357266" />
-      <entry key="M30" value="39.984413613437304" />
-      <entry key="H1" value="59.54245825265612" />
-      <entry key="H2" value="75.42720466803674" />
-      <entry key="H4" value="85.70685586203416" />
-      <entry key="D1" value="95.79377472343904" />
-      <entry key="W1" value="97.6807181340503" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.782745117747177E-89" />
+      <entry key="S5" value="3.167033328532471E-36" />
+      <entry key="S10" value="1.8196322614643326E-18" />
+      <entry key="S30" value="1.7080708951281446E-6" />
+      <entry key="S60" value="0.002456184131433996" />
+      <entry key="M2" value="0.13019931901806667" />
+      <entry key="M5" value="2.1247699331098553" />
+      <entry key="M10" value="7.184070702037535" />
+      <entry key="M15" value="12.043404328177928" />
+      <entry key="M30" value="25.29391429896548" />
+      <entry key="H1" value="48.58988796973058" />
+      <entry key="H2" value="77.3342180603461" />
+      <entry key="H4" value="101.57511881557888" />
+      <entry key="D1" value="130.10342959635057" />
+      <entry key="W1" value="135.98701084924656" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.501246951169904E-4" />
-      <entry key="MS500" value="0.24948909584360474" />
-      <entry key="S2" value="1.2550124411234926" />
-      <entry key="S5" value="2.2950548611527806" />
-      <entry key="S10" value="3.721231297598231" />
-      <entry key="S30" value="8.20755938991652" />
-      <entry key="S60" value="14.699907724060429" />
-      <entry key="M2" value="28.28115625163238" />
-      <entry key="M5" value="62.91738984089608" />
-      <entry key="M10" value="105.33556981152009" />
-      <entry key="M15" value="139.02440526069128" />
-      <entry key="M30" value="213.6770173913775" />
-      <entry key="H1" value="294.5939850474294" />
-      <entry key="H2" value="359.2561452802639" />
-      <entry key="H4" value="401.0131961066291" />
-      <entry key="D1" value="442.02135023125066" />
-      <entry key="W1" value="449.7003741608195" />
+      <entry key="MS100" value="0.8847048603423209" />
+      <entry key="MS500" value="2.0420252218809543" />
+      <entry key="S2" value="4.720086374887799" />
+      <entry key="S5" value="5.936697358847796" />
+      <entry key="S10" value="6.438861501491783" />
+      <entry key="S30" value="6.80598756698697" />
+      <entry key="S60" value="6.944274838944292" />
+      <entry key="M2" value="8.621221468747192" />
+      <entry key="M5" value="28.153453975411523" />
+      <entry key="M10" value="73.45704076641125" />
+      <entry key="M15" value="117.90821905809052" />
+      <entry key="M30" value="235.15459830287176" />
+      <entry key="H1" value="407.49479126222025" />
+      <entry key="H2" value="590.8945546216721" />
+      <entry key="H4" value="734.0654929572391" />
+      <entry key="D1" value="894.9824293614159" />
+      <entry key="W1" value="927.4340972528082" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -161,7 +142,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/TeamX/IdeaProjects/adv_calculator/src/main/java/org/example/calculator",
     "node.js.detected.package.eslint": "true",
